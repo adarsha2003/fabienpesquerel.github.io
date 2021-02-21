@@ -4,7 +4,7 @@ title: Fabien Pesquerel
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Blog of a stochastic random ascent to better understand sequential decision making under uncertainty
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://127.0.0.1:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fabienpesquerel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
 
 
@@ -37,7 +37,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: fabien.pesquerel@gmail.com # Add your email for contant form
+  email: - # Add your email for contant form
   description: If you are interested to talk, just shoot me a message
 
 # NOTE
