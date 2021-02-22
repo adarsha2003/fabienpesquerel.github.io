@@ -37,7 +37,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: - # Add your email for contant form
+  email: noemail@noemail.com # Add your email for contant form
   description: If you are interested to talk, just shoot me a message
 
 # NOTE

@@ -1,11 +1,10 @@
 source 'https://rubygems.org'
-gem "bundler"
+# gem "bundler"
 # gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-tagging"
-  gem "jekyll-sitemap"
-  gem "jekyll-feed"
-end
+gem "github-pages",  group: :jekyll_plugins
+
+# gem "jekyll-paginate", "~> 1.1.0"
+# gem "jekyll-tagging"
+# gem "jekyll-sitemap", "~> 1.4.0"
+# gem "jekyll-feed"
 
