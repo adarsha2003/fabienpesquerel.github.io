@@ -7,9 +7,9 @@ image: '/images/08.jpg'
 
 ## Current
 
-- Reinforcement Learning, École Centrale Supélec, 2021, M2 (with [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/))
-	- Practical Session 1: [MDP](https://www.eleves.ens.fr/home/pesquere/)
-	- Practical Session 2: Stochastic Bandits
+- Reinforcement Learning, École Centrale Supélec, 2021, M2 (with [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/) and Patrick Saux)
+	- Practical Session 1: [MDP](https://www.eleves.ens.fr/home/pesquere/)([Solution](https://www.eleves.ens.fr/home/pesquere/solution.py))
+	- Practical Session 2: [Stochastic Bandits](https://www.eleves.ens.fr/home/pesquere/)
 - Reinforcement Learning, École Polytechnique, 2021, M2 [AI ViC](https://programmes.polytechnique.edu/en/master-all-msct-programs/artificial-intelligence-advanced-visual-computing-master/faculty) (with [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/))
 
 ## Previous
