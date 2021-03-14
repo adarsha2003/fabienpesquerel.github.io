@@ -3,10 +3,10 @@ layout: post
 title: Bandit environment
 date:   2021-02-20
 image:  '/images/08.jpg'
-tags:   Bandit, sequential learning
+tags:   Bandit Sequential learning
 ---
 
-The github repository is available [here](https://github.com/fabienpesquerel/MCMC).
+The github repository is available [here](https://github.com/fabienpesquerel/forban).
 
 ## Description
 

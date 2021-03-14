@@ -2,10 +2,10 @@
 # General Site Settings
 title: Fabien Pesquerel
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Blog of a stochastic random ascent to better understand sequential decision making under uncertainty
+description: Blog of a stochastic random ascent to better understand sequential decision making under uncertainty. We talk about markov decision process, reinforcement learning, bandits algorithms, stochastic optimization and research in these areas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fabienpesquerel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
+blog-theme: light 
 
 
 #-------------------------------
@@ -41,7 +41,7 @@ contact:
   description: If you are interested to talk, just shoot me a message
 
 # NOTE
-# Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+# built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
 
 
 #-------------------------------
@@ -49,7 +49,7 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/randomwalk"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com/tobedone"}
 - {icon: "ion-logo-github", link: "https://github.com/fabienpesquerel"}
 # - {icon: "ion-logo-youtube", link: "https://youtube.com"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -93,6 +93,7 @@ permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll/tagging
 
 paginate: 9
